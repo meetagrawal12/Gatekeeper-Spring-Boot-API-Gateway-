@@ -1,6 +1,4 @@
 
-# Gatekeeper-Spring-Boot-API-Gateway-
-=======
 # Gatekeeper: multi-tenant API gateway control plane
 
 Manage gateway routes, header policies and access across organizations, with role-based login.
